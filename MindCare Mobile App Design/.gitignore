@@ -1,0 +1,35 @@
+/node_modules
+/.expo
+/dist
+/build
+/.vscode
+/.idea
+/.DS_Store
+
+# Ignore log files and temp files
+*.log
+*.tmp
+*.swp
+*.swo       
+# Ignore environment variable files
+.env
+.env.local
+.env.development
+.env.test   
+# Ignore coverage reports
+/coverage
+# Ignore generated files        
+*.js
+*.jsx
+*.ts
+*.tsx
+*.map       
+# Ignore lock files             
+package-lock.json
+yarn.lock           
+# Ignore OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+# Ignore Expo-specific files
+
